@@ -13,7 +13,7 @@
 5. There is a function that check for OTP when user submit it.
 <img src="./images/picobank2.png" alt="Challenge Hint" width="400">
 
-Searching the verifyOtp will reveal more about how the program verify the OTP
+Searching the verifyOtp will reveal more about how the program verify the OTP </br>
 <img src="./images/picobank3.png" alt="Challenge Hint" width="400">
 
 6. Search ```otp_value``` within the whole project will reveal the OTP number.
